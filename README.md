@@ -1,6 +1,6 @@
 # Hi, I'm Serhii 👋
 
-I'm a **Full Stack Developer** passionate about building reliable, secure, and maintainable software.
+I'm a **Software Developer** passionate about building reliable, secure, and maintainable software.
 
 ---
 
